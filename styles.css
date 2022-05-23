@@ -240,6 +240,7 @@
     border-radius: 7rem;
     opacity: 0.7;
     transition: transform 1s ease;
+    border: 0.1rem solid gray;
 }
 
 .artists-banner img:hover {
