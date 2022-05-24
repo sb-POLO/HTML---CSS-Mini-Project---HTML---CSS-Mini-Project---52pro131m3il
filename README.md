@@ -78,7 +78,7 @@ _It's currently at a very early development stage but hoping to get it available
     />
 </p>
 
-##### Aboutus page
+##### About us page
 
 <p align="center">
     <img 
