@@ -4,8 +4,8 @@
 
 <p align="center">
     <img 
-    width="300"
-    height="300"
+    width="400"
+    height="400"
     src="./assets/logo2.png"
     />
 </p>
@@ -92,6 +92,8 @@ _It's currently at a very early development stage but hoping to get it available
 
 * _[YouTube](https://www.youtube.com/)_
 * _[W3 Schools](https://www.w3schools.com/)_
+* _[CSS Tricks](https://css-tricks.com/)_
+* _[Icons DB](https://www.iconsdb.com/)_
 * _[Adobe Creative Cloud Express](https://express.adobe.com/sp/onboarding)_
 
 #### Contact
