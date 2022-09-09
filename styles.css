@@ -206,7 +206,6 @@
     width: 60vw;
     height: 30rem;
     -webkit-overflow-scrolling: touch;
-    scrollbar-width: thick;
     scrollbar-color: turquoise transparent;
 }
 
