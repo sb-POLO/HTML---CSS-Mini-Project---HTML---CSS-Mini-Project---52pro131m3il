@@ -28,9 +28,9 @@
     min-height: 100vh;
     background: transparent;
     overflow: scroll;
-    -webkit-overflow-scrolling: touch;
+/*     -webkit-overflow-scrolling: touch;
     scrollbar-width: thick;
-    scrollbar-color: turquoise transparent;
+    scrollbar-color: turquoise transparent; */
 }
 
 .friends-section {
@@ -205,8 +205,8 @@
     margin-bottom: 2rem;
     width: 60vw;
     height: 30rem;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-color: turquoise transparent;
+/*     -webkit-overflow-scrolling: touch;
+    scrollbar-color: turquoise transparent; */
 }
 
 .song-container {
@@ -354,9 +354,9 @@
     overflow: auto;
     flex-direction: column;
     height: 90vh;
-    -webkit-overflow-scrolling: touch;
+/*     -webkit-overflow-scrolling: touch;
     scrollbar-width: thick;
-    scrollbar-color: turquoise transparent;
+    scrollbar-color: turquoise transparent; */
 }
 
 .friends-group {
@@ -440,7 +440,7 @@
 }
 
 ::-webkit-scrollbar {
-  width: 5px;
+  width: 8px;
 }
 
 /* Track */
