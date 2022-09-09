@@ -27,7 +27,7 @@
 .right-section {
     min-height: 100vh;
     background: transparent;
-/*     overflow: scroll; */
+    overflow: scroll;
 /*     -webkit-overflow-scrolling: touch;
     scrollbar-width: thick;
     scrollbar-color: turquoise transparent; */
